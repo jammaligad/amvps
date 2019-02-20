@@ -187,7 +187,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/coverdraft6.png");
+  background-image: url("../img/coverdraft.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -703,4 +703,16 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
+}
+
+.dropdown-menu {
+  background-color: #9de3ff94;
+}
+
+#book {
+  background-image: url("../img/bookheader.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
 }
